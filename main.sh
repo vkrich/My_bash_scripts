@@ -1,5 +1,5 @@
 #!/bin/bash
-path=~/test
+path=~/
 arg1=$1
 arg2=$2
 
