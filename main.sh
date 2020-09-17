@@ -12,4 +12,4 @@ echo "{path}" >> a.out
 echo "My script $0 catch - $arg1 as first arg and $arg2 as second arg" >> a.out
 echo "Arguments are: \$1=$arg1 \$2=$arg2" >> a.out
 
-less a.out
+#less a.out

@@ -1,0 +1,6 @@
+Hello /home/runner/ !
+${path}
+$path
+{path}
+My script main.sh catch -  as first arg and  as second arg
+Arguments are: $1= $2=
